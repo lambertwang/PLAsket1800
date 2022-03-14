@@ -5,7 +5,7 @@ The electronics were hand-wired.
 
 ## Layout
 
-![](https://github.com/lambertwang/PLAKey-1800/blob/main/images/keyboard-layout.png)
+![](layout/keyboard-layout.png)
 
 ## 3D Printed Parts
 
