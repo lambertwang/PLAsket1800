@@ -5,7 +5,7 @@ The electronics were hand-wired.
 
 ## Layout
 
-![](images/keyboard-layout.png)
+![](https://github.com/lambertwang/PLAKey-1800/blob/main/images/keyboard-layout.png)
 
 ## 3D Printed Parts
 
@@ -47,12 +47,14 @@ Hardware
 * 4-40x3/8" Countersunk Screws
 * MX Keycap o-rings
   * This is for gasket mounting the switchplate.
+* Full size stabilizer set
+  * 4x2u, 1x6.25u
 * (Optional) Included in the repository is a dxf file if you want to get a stronger backplate manufactured.
   * This is if you really like the design, but want a sturdier keyboard or a more solid typing feel.
 
 ### Cost
 
-The total cost of the hardware comes to around $40 or less not including the switches(depending on what you may already have on hand.).
+The total cost of the hardware comes to around $50 or less not including the switches (depending on what you may already have on hand.).
 The mass of the 3d printed parts comes out to around 300g. A cheap filament is around $20/kg so around $6 of 3d printed plastic.
 
 ## Programming
