@@ -3,9 +3,20 @@
 A custom designed gasket mounted keyboard using an 1800 layout with mostly 3d printed parts.
 The electronics were hand-wired.
 
+![](images/render_1.png)
+
 ## Layout
 
 ![](layout/keyboard-layout.png)
+
+## Construction
+
+The "gaskets" in this keyboard are Cherry MX keycap o-rings.
+Each mounting hole has 2 o-rings sandwiching the switchplate.
+The keyboard assembly is fixed by screws going through the bottom plate, o-rings, switchplate, and screwed into the top plate.
+
+![](images/section_1.png)
+![](images/render_4.png)
 
 ## 3D Printed Parts
 
@@ -76,3 +87,8 @@ Or reach out to me on discord Magellan#8465
 - Create a PCB layout for the keyboard
 - Create a Group Buy for hardware/electronics in a kit
   - Maybe just a group buy for a metal switchplate
+
+## Renders
+
+![](images/render_2.png)
+![](images/render_3.png)
