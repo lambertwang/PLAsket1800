@@ -1,7 +1,8 @@
-# PLAKey-1800
+# PLAsket-1800
 
 A custom designed gasket mounted keyboard using an 1800 layout with mostly 3d printed parts.
-The electronics were hand-wired.
+
+There is no PCB for the board currently, the electronics are hand wired at the moment.
 
 ![](images/render_1.png)
 
